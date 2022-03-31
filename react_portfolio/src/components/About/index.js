@@ -5,7 +5,11 @@ function About() {
     <div className="about">
       <h1>About Me</h1>
       <div className="">
-        <img src={require('../../assets/images/Profile_pic.png')} alt="Jason" />
+        <img
+          className="profile-pic"
+          src={require('../../assets/images/Profile_pic.png')}
+          alt="Jason"
+        />
       </div>
       <div className="about-paragraph">
         <p>

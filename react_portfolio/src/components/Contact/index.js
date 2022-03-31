@@ -73,7 +73,7 @@ function ContactForm() {
             rows="5"
           />
         </div>
-        if(errorMessage){' '}
+        {/* if(errorMessage){' '} */}
         {
           <div>
             <p className="error-text">{errorMessage}</p>
