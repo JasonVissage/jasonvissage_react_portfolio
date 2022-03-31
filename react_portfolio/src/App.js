@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
+import { Document, Page } from 'react-pdf'
+
 
 import Homepage from './pages/homepage';
 
