@@ -8,6 +8,20 @@
 .header {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.resume {
+  display: flex;
+  justify-content: center;
+}
+
+.resume-body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  display: flex;
+  justify-content: center;
 }
 
 .profile-pic {

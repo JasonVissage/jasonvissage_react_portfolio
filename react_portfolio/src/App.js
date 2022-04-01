@@ -1,10 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
-import { Document, Page } from 'react-pdf'
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Homepage from './pages/homepage';
-
 
 // import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 

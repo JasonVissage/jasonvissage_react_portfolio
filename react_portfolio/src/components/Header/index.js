@@ -1,18 +1,16 @@
 import React from 'react';
+import Nav from '../Nav';
 
 function Header() {
   return (
-    <div
-      className="header"
-      style={{
-        display: 'flex',
-        justifyContent: 'center',
-        // alignItems: 'center',
-        // height: 'auto',
-      }}
-    >
-      <h1>Jason Vissage</h1>
-    </div>
+    <section className="header-section">
+      <div className="header">
+        <h1>Jason Vissage</h1>
+      </div>
+      <nav className="nav-header hvr-underline-from-left">
+        <Nav />
+      </nav>
+    </section>
   );
 }
 
