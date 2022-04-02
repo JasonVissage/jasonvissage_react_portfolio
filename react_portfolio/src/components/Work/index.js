@@ -2,8 +2,21 @@ import React from 'react';
 
 function Work() {
   return (
-    <div>
-      <h2>Portfolio</h2>
+    <div id="portfolio">
+      <div>
+        <h2>Portfolio</h2>
+      </div>
+      <section>
+        <ul>
+          <li>Run Buddy</li>
+        </ul>
+        <ul>
+          <li>Loading</li>
+        </ul>
+        <ul>
+          <li>Loading</li>
+        </ul>
+      </section>
     </div>
   );
 }
