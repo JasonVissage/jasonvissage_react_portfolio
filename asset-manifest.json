@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb9b3258.css",
+    "main.js": "/static/js/main.91f9e476.js",
+    "static/media/wooden_background.jpg": "/static/media/wooden_background.99f05a69fceadff6b2e7.jpg",
+    "static/media/RunBuddy.png": "/static/media/RunBuddy.d43bf15cdec1744bdaae.png",
+    "static/media/Profile_pic.png": "/static/media/Profile_pic.6c743fbb67c9f547f0bf.png",
+    "static/media/Photo_Port.png": "/static/media/Photo_Port.19f0ee7e76e5a3434539.png",
+    "static/media/Zoo_Keepr.png": "/static/media/Zoo_Keepr.56ba00dbda7950935204.png",
+    "static/media/Password_Generator.png": "/static/media/Password_Generator.234b52b46a3466ea6098.png",
+    "static/media/Taskinator_Pro.png": "/static/media/Taskinator_Pro.d1bc7f73dd983053a8e8.png",
+    "static/media/Just_Tech_News.png": "/static/media/Just_Tech_News.5ce5b2f0d796e1c876cc.png",
+    "index.html": "/index.html",
+    "main.cb9b3258.css.map": "/static/css/main.cb9b3258.css.map",
+    "main.91f9e476.js.map": "/static/js/main.91f9e476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9b3258.css",
+    "static/js/main.91f9e476.js"
+  ]
+}
