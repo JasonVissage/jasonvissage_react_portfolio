@@ -3,11 +3,11 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import About from './components/About';
-// import Homepage from '../src/pages/homepage';
+import Resume from './components/Resume';
 import Contact from './components/Contact';
 import Work from './components/Work';
 import Header from './components/Header';
-import Footer from './components/Footer'
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -25,9 +25,9 @@ function App() {
             <Route exact path="/portfolio">
               <Work />
             </Route>
-            {/* <Route exact path="/">
-              <About />
-            </Route> */}
+            <Route exact path="/resume">
+              <Resume />
+            </Route>
           </Switch>
         </div>
         <Footer />

@@ -1,5 +1,6 @@
 import React from 'react';
-import Nav from '../Nav';
+// import Nav from '../Nav';
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
@@ -7,8 +8,21 @@ function Header() {
       <div className="header">
         <h1>Jason Vissage</h1>
       </div>
-      <nav className="nav-header hvr-underline-from-left">
-        <Nav />
+      <nav className="nav">
+        <ul>
+          <Link to="/">
+            <li>About</li>
+          </Link>
+          <Link to="/contact">
+            <li>Contact</li>
+          </Link>
+          <Link to="/portfolio">
+            <li>Portfolio</li>
+          </Link>
+          <Link to="/resume">
+            <li>Resume</li>
+          </Link>
+        </ul>
       </nav>
     </section>
   );

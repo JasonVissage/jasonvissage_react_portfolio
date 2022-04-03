@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
   return (
     <div className="about">
-      <h1>About Me</h1>
+      <h1 className="about">About Me</h1>
       <div className="">
         <img
           className="profile-pic"
@@ -27,18 +27,7 @@ function About() {
           accomplishing goals.
         </p>
       </div>
-      <div className="contact-details">
-        <h2>Contact Details</h2>
-        <p>Jason Vissage</p>
-        <a href="mailto:JasonVissage@yahoo.com">JasonVissage@yahoo.com</a>
-        <p>
-          <button className="resume-button">
-            <a href="./JVResume.pdf" download>
-              Resume
-            </a>
-          </button>
-        </p>
-      </div>
+      
     </div>
   );
 }

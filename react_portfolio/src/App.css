@@ -1,24 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
 .main-page,
 about {
   background-image: url('./assets/images/wooden_background.jpg');
-  color: white;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+  color: rgb(212, 212, 212);
   min-height: 120vh;
   display: flex;
   flex-direction: column;
 }
 
-.header {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+.contact {
   display: flex;
   justify-content: center;
 }
 
+.header {
+  display: flex;
+  justify-content: center;
+  padding: 30px 10%;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  color: rgb(212, 212, 212);
+}
+
+ul,
+li {
+  display: inline-block;
+  padding: 0 20px;
+}
+
 .footer {
+  justify-content: center;
   background-color: rgba(0, 0, 0, 0.5);
-  /* height: 100%; */
   display: flex;
   margin-top: auto;
 }
@@ -28,12 +52,34 @@ about {
   justify-content: center;
 }
 
-.resume-body {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+.resume-pdf {
   display: flex;
   justify-content: center;
 }
+
+.resume-button {
+  border-radius: 7px;
+  size: 50px;
+}
+
+.material-icons {
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+}
+
+.skills-list li {
+  list-style: disc;
+  display: block;
+  padding: 3px;
+}
+
+/* .resume-body {
+  display: flex;
+  justify-content: center;
+} */
 
 .profile-pic {
   height: auto;
