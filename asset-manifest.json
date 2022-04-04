@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jasonvissage_react_portfolio/%20/static/css/main.6bae536a.css",
-    "main.js": "/jasonvissage_react_portfolio/%20/static/js/main.e985f43e.js",
-    "static/media/wooden_background.jpg": "/jasonvissage_react_portfolio/%20/static/media/wooden_background.99f05a69fceadff6b2e7.jpg",
-    "static/media/RunBuddy.png": "/jasonvissage_react_portfolio/%20/static/media/RunBuddy.d43bf15cdec1744bdaae.png",
-    "static/media/Profile_pic.png": "/jasonvissage_react_portfolio/%20/static/media/Profile_pic.6c743fbb67c9f547f0bf.png",
-    "static/media/Photo_Port.png": "/jasonvissage_react_portfolio/%20/static/media/Photo_Port.19f0ee7e76e5a3434539.png",
-    "static/media/Zoo_Keepr.png": "/jasonvissage_react_portfolio/%20/static/media/Zoo_Keepr.56ba00dbda7950935204.png",
-    "static/media/Password_Generator.png": "/jasonvissage_react_portfolio/%20/static/media/Password_Generator.234b52b46a3466ea6098.png",
-    "static/media/Taskinator_Pro.png": "/jasonvissage_react_portfolio/%20/static/media/Taskinator_Pro.d1bc7f73dd983053a8e8.png",
-    "static/media/Just_Tech_News.png": "/jasonvissage_react_portfolio/%20/static/media/Just_Tech_News.5ce5b2f0d796e1c876cc.png",
-    "index.html": "/jasonvissage_react_portfolio/%20/index.html",
-    "main.6bae536a.css.map": "/jasonvissage_react_portfolio/%20/static/css/main.6bae536a.css.map",
-    "main.e985f43e.js.map": "/jasonvissage_react_portfolio/%20/static/js/main.e985f43e.js.map"
+    "main.css": "/jasonvissage_react_portfolio/static/css/main.8c02bbc0.css",
+    "main.js": "/jasonvissage_react_portfolio/static/js/main.51110afb.js",
+    "static/media/wooden_background.jpg": "/jasonvissage_react_portfolio/static/media/wooden_background.99f05a69fceadff6b2e7.jpg",
+    "static/media/RunBuddy.png": "/jasonvissage_react_portfolio/static/media/RunBuddy.d43bf15cdec1744bdaae.png",
+    "static/media/Profile_pic.png": "/jasonvissage_react_portfolio/static/media/Profile_pic.6c743fbb67c9f547f0bf.png",
+    "static/media/Photo_Port.png": "/jasonvissage_react_portfolio/static/media/Photo_Port.19f0ee7e76e5a3434539.png",
+    "static/media/Zoo_Keepr.png": "/jasonvissage_react_portfolio/static/media/Zoo_Keepr.56ba00dbda7950935204.png",
+    "static/media/Password_Generator.png": "/jasonvissage_react_portfolio/static/media/Password_Generator.234b52b46a3466ea6098.png",
+    "static/media/Taskinator_Pro.png": "/jasonvissage_react_portfolio/static/media/Taskinator_Pro.d1bc7f73dd983053a8e8.png",
+    "static/media/Just_Tech_News.png": "/jasonvissage_react_portfolio/static/media/Just_Tech_News.5ce5b2f0d796e1c876cc.png",
+    "index.html": "/jasonvissage_react_portfolio/index.html",
+    "main.8c02bbc0.css.map": "/jasonvissage_react_portfolio/static/css/main.8c02bbc0.css.map",
+    "main.51110afb.js.map": "/jasonvissage_react_portfolio/static/js/main.51110afb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bae536a.css",
-    "static/js/main.e985f43e.js"
+    "static/css/main.8c02bbc0.css",
+    "static/js/main.51110afb.js"
   ]
 }
