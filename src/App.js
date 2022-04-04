@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as HashRouter, Route, Switch } from 'react-router-dom';
 import About from './components/About';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <main className="main-page">
         <Header />
         <div>
@@ -32,7 +32,7 @@ function App() {
         </div>
         <Footer />
       </main>
-    </Router>
+    </HashRouter>
   );
 }
 
