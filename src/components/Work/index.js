@@ -7,12 +7,25 @@ import Password from '../../assets/images/Password_Generator.png';
 import Photo from '../../assets/images/Photo_Port.png';
 import Taskinator from '../../assets/images/Taskinator_Pro.png';
 import Zoo from '../../assets/images/Zoo_Keepr.png';
+import Barber from '..//../assets/images/Barber.png';
 
 function Work() {
   return (
     <div className="portfolio" id="portfolio">
       <h2>Portfolio</h2>
       <section>
+        <Card style={{ width: '18rem' }}>
+          <Card.Img variant="top" src={Barber} />
+          <Card.Body>
+            <Card.Title>Run Buddy</Card.Title>
+            <a
+              href="https://barber-shop-sidemerns.herokuapp.com/"
+              target="_blank"
+            >
+              <Button variant="primary">View</Button>
+            </a>
+          </Card.Body>
+        </Card>
         <Card style={{ width: '18rem' }}>
           <Card.Img variant="top" src={RunBuddy} />
           <Card.Body>

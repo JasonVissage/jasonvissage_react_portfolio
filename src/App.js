@@ -8,6 +8,7 @@ import Contact from './components/Contact';
 import Work from './components/Work';
 import Header from './components/Header';
 import Footer from './components/Footer';
+// import Test from './components/TestNav';
 
 function App() {
   return (
@@ -27,6 +28,9 @@ function App() {
             </Route>
             <Route exact path="/resume">
               <Resume />
+            </Route>
+            <Route exact path="/test">
+              {/* <Test /> */}
             </Route>
           </Switch>
         </div>
